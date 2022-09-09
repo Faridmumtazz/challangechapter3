@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_com"
+    app:startDestination="@id/firstListFragment">
+
+    <fragment
+        android:id="@+id/firstListFragment"
+        android:name="asha.binar.challangechapter3.FirstListFragment"
+        android:label="fragment_first_list"
+        tools:layout="@layout/fragment_first_list" />
+</navigation>
