@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/appdev/challangechapter3/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.118" />
+        <entry key="..\:/appdev/challangechapter3/app/src/main/res/drawable-v24/top_radius.xml" value="0.118" />
         <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/alphabet_list.xml" value="0.184375" />
+        <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/alphabet_word.xml" value="0.1375" />
+        <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/alphabet_word_preview.xml" value="0.18333333333333332" />
+        <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/fragment_add_word_bottom_sheet.xml" value="0.1703125" />
+        <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/fragment_alphabet.xml" value="0.184375" />
+        <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/fragment_alphabet_word.xml" value="0.184375" />
         <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/fragment_first_list.xml" value="0.184375" />
         <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/fragment_second_list.xml" value="0.184375" />
         <entry key="..\:/appdev/challangechapter3/app/src/main/res/layout/item_list.xml" value="0.184375" />
